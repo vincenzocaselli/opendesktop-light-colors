@@ -1,1 +1,1 @@
-Compress file OpenDesktopDark.colors as .tar.gz and upload
+Compress file OpenDesktopLight.colors as .tar.gz and upload
